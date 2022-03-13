@@ -1,6 +1,6 @@
 # DbUtils
 ##  M Boldin Dec 2018
 
-Miscellaneous database utilities
+Miscellaneous data management utilities
 
 DFUnique --
