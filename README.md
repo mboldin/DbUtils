@@ -1,6 +1,7 @@
 # DbUtils
-##  M Boldin Dec 2018
+##  M Boldin mdboldin@gmail.com
 
-Miscellaneous data management utilities
+Miscellaneous database and general management utilities
+All Python based
 
 DFUnique --
